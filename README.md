@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋My name is Samuel. I am a person who loves life. I love running and playing basketball. My favorite drink is Suntory Oolong tea.
 
 <!--
 **SuntoryOolongTea/SuntoryOolongTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
